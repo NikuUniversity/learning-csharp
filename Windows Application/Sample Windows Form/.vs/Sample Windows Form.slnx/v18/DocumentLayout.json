@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Niku University\\Desktop\\NikuUniversity\\learning-csharp\\Windows Application\\Sample Windows Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F43053F6-B976-46C6-B8AB-019ABD0B1A40}|Sample Windows Form\\Sample Windows Form.csproj|c:\\users\\niku university\\desktop\\nikuuniversity\\learning-csharp\\windows application\\sample windows form\\sample windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F43053F6-B976-46C6-B8AB-019ABD0B1A40}|Sample Windows Form\\Sample Windows Form.csproj|solutionrelative:sample windows form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Niku University\\Desktop\\NikuUniversity\\learning-csharp\\Windows Application\\Sample Windows Form\\Sample Windows Form\\Form1.cs",
+              "RelativeDocumentMoniker": "Sample Windows Form\\Form1.cs",
+              "ToolTip": "C:\\Users\\Niku University\\Desktop\\NikuUniversity\\learning-csharp\\Windows Application\\Sample Windows Form\\Sample Windows Form\\Form1.cs [Design]",
+              "RelativeToolTip": "Sample Windows Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T13:57:05.962Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\net10.0\DemoConsoleApplication.exe
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\net10.0\DemoConsoleApplication.deps.json
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\net10.0\DemoConsoleApplication.runtimeconfig.json
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\net10.0\DemoConsoleApplication.dll
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\bin\Debug\net10.0\DemoConsoleApplication.pdb
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.AssemblyInfo.cs
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.sourcelink.json
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.dll
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\refint\DemoConsoleApplication.dll
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.pdb
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\DemoConsoleApplication.genruntimeconfig.cache
+C:\Users\Niku University\Desktop\NikuUniversity\learning-csharp\Console Application\DemoConsoleApplication\DemoConsoleApplication\obj\Debug\net10.0\ref\DemoConsoleApplication.dll

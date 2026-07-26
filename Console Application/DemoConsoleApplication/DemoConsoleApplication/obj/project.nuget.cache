@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKXKFk7/Gb0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Niku University\\Desktop\\NikuUniversity\\learning-csharp\\Console Application\\DemoConsoleApplication\\DemoConsoleApplication\\DemoConsoleApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Niku University\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}
