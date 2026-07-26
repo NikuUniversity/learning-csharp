@@ -1,1 +1,68 @@
 
+# C# 14 Tutorials - Niku University
+
+Welcome to the **C# 14 Tutorials** guide, provided by **Niku University**. This resource provides a comprehensive path to mastering C# programming, moving from foundational console applications up to intermediate and advanced object-oriented programming concepts.
+
+---
+
+## 📚 Table of Contents
+
+- [Overview](#overview)
+- [Course Structure & Topics](#course-structure--topics)
+  - [1. Fundamental Concepts & Introductory Console Applications](#1-fundamental-concepts--introductory-console-applications)
+  - [2. Objects and Object-Oriented Programming](#2-objects-and-object-oriented-programming)
+  - [3. Intermediate Topics & Building Objects](#3-intermediate-topics--building-objects)
+  - [4. Advanced Concepts & Operations](#4-advanced-concepts--operations)
+- [About Niku University](#about-niku-university)
+
+---
+
+## 🔍 Overview
+
+This tutorial series focuses on the primary concepts of C#, starting with foundational console (terminal) applications and expanding into robust software design paradigms, data structures, and .NET features.
+
+---
+
+## 📖 Course Structure & Topics
+
+### 1. Fundamental Concepts & Introductory Console Applications
+* Introduction to Microsoft Visual Studio
+* Values, Variables, Operators, and Operands
+* Logical Operations, Equalities, Conditional Statements, Conjunctions, and Disjunctions
+* Functions, Parameters, and Arguments
+* Values vs. References
+* Introduction to Classes, Namespaces, Methods, and Properties
+* Constructors, Object Construction, and Destruction
+* Tuples, Enumerations, and Conditional Switches
+
+### 2. Objects and Object-Oriented Programming
+* Class Inheritance and Value/Object Staticity
+* Libraries and .NET Built-In Classes
+* Nullity, Nullity Operators, and Exception Handling
+* Inheritance using the `base` class
+* Polymorphism, Abstraction, and Sealing Classes
+* Interfaces, Built-In Interfaces, and Pattern Matching
+
+### 3. Intermediate Topics & Building Objects
+* Structures and Value Types Characteristics
+* Bit Manipulations
+* Console Data Reading and Writing
+* Records, Arrays, Counting, and Looping
+* Multidimensional Arrays (Primitive Types, Classes, Records, and Structures)
+
+### 4. Advanced Concepts & Operations
+* The Array Class and Common Array Operations
+* Characters, Strings, and Text Processing Operations
+* Generics and Inheritance
+* Attributes
+* Delegates and .NET Delegates
+* Indexers and Classes
+* Errors, Debugging, and Separate Files
+* Operator Overloading
+
+---
+
+## 🌐 About Niku University
+
+Niku University provides broad learning paths across various computer languages, database development, and web development technologies.
+
