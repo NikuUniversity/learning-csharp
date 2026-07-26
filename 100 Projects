@@ -1,0 +1,131 @@
+Here is a curated list of 100 C# project ideas organized by category, complete with standard Git branch names (using the `feature/` naming convention) to help you structure your repositories.
+
+## Beginner Console Applications
+
+1. **Calculator** (`feature/console-calculator`) - A basic math calculator.
+2. **Number Guessing Game** (`feature/number-guesser`) - Random number generation and user input validation.
+3. **To-Do List** (`feature/console-todo`) - A memory-based list manager for daily tasks.
+4. **Rock, Paper, Scissors** (`feature/rps-game`) - A simple game against the computer.
+5. **Currency Converter** (`feature/currency-converter`) - Convert between static currency exchange rates.
+6. **Password Generator** (`feature/password-gen`) - Create secure, randomized strings.
+7. **BMI Calculator** (`feature/bmi-calculator`) - Calculate Body Mass Index using user height and weight.
+8. **Alarm Clock** (`feature/alarm-clock`) - A console app that plays a sound at a specific time.
+9. **Tic-Tac-Toe** (`feature/tic-tac-toe`) - A 2-player grid game built in the console.
+10. **Word Counter** (`feature/word-counter`) - Count words, characters, and sentences in a given string.
+
+## Intermediate Console Applications
+
+11. **Weather App** (`feature/weather-cli`) - Fetch live data from a public weather API.
+12. **File Explorer** (`feature/file-explorer-cli`) - Navigate local directories and list files.
+13. **Simple Chatbot** (`feature/basic-chatbot`) - A rule-based conversational bot.
+14. **Trivia Quiz** (`feature/trivia-quiz`) - A multiple-choice quiz that tracks scores.
+15. **Web Scraper** (`feature/web-scraper-cli`) - Use HtmlAgilityPack to extract data from a website.
+16. **Contact Book** (`feature/contact-manager`) - Save and retrieve contacts using local file storage.
+17. **Markdown to HTML** (`feature/md-to-html`) - Parse basic markdown syntax into HTML tags.
+18. **JSON Parser** (`feature/json-parser`) - Read and output specific fields from a local JSON file.
+19. **Unit Converter** (`feature/unit-converter`) - Convert weights, distances, and temperatures.
+20. **Expense Tracker** (`feature/console-expense-tracker`) - Log daily expenses and calculate monthly totals.
+
+## Desktop Applications (WPF / WinForms)
+
+21. **Notepad Clone** (`feature/notepad-clone`) - A text editor with save, open, and formatting options.
+22. **Music Player** (`feature/music-player`) - Load and play MP3 files with play/pause controls.
+23. **Video Player** (`feature/video-player`) - A simple media player using built-in Windows media libraries.
+24. **Paint Clone** (`feature/paint-clone`) - A basic drawing canvas with color and brush size options.
+25. **Pomodoro Timer** (`feature/pomodoro-desktop`) - A productivity timer with work/break intervals.
+26. **Digital Clock** (`feature/digital-clock-desktop`) - A customizable on-screen clock widget.
+27. **Sticky Notes** (`feature/sticky-notes`) - Desktop note widgets that persist between sessions.
+28. **Recipe Manager** (`feature/recipe-book`) - A GUI app to store, edit, and view cooking recipes.
+29. **Inventory System** (`feature/desktop-inventory`) - Track product stock levels and pricing.
+30. **Library Management** (`feature/library-manager`) - Manage book checkouts, returns, and members.
+
+## Web APIs (ASP.NET Core)
+
+31. **To-Do API** (`feature/todo-api`) - A RESTful API with full CRUD operations.
+32. **Blog API** (`feature/blog-api`) - Endpoints for creating posts, comments, and tags.
+33. **E-commerce API** (`feature/ecommerce-api`) - Manage products, shopping carts, and checkouts.
+34. **Movie Database API** (`feature/movie-db-api`) - Search and filter movies by genre and rating.
+35. **JWT Auth Service** (`feature/jwt-auth-service`) - An authentication microservice issuing JSON Web Tokens.
+36. **URL Shortener API** (`feature/url-shortener-api`) - Convert long URLs to short hashes and redirect them.
+37. **Social Feed API** (`feature/social-feed-api`) - Endpoints for posting updates and following users.
+38. **Fitness Tracker API** (`feature/fitness-api`) - Log workouts, exercises, and personal records.
+39. **Real Estate API** (`feature/real-estate-api`) - Filter properties by location, price, and size.
+40. **Booking API** (`feature/booking-api`) - Manage reservations for events or restaurants.
+
+## Full-Stack Web Apps (Blazor / ASP.NET MVC)
+
+41. **Personal Portfolio** (`feature/blazor-portfolio`) - A showcase website built entirely in C# (WebAssembly).
+42. **Job Board** (`feature/job-board-web`) - Post and apply to job listings.
+43. **Task Kanban Board** (`feature/kanban-board`) - A drag-and-drop Trello clone.
+44. **Live Chat** (`feature/signalr-chat`) - Real-time messaging using SignalR.
+45. **Community Forum** (`feature/forum-web`) - Categorized message boards with user roles.
+46. **E-learning Platform** (`feature/elearning-web`) - Host courses, videos, and student progress tracking.
+47. **Polling App** (`feature/voting-app`) - Create live polls and view results in real-time.
+48. **Support Helpdesk** (`feature/helpdesk-web`) - Submit, assign, and resolve support tickets.
+49. **Crypto Dashboard** (`feature/crypto-dashboard`) - Track cryptocurrency prices using a live API feed.
+50. **Crowdfunding Web** (`feature/crowdfund-web`) - A platform to pitch projects and collect pledges.
+
+## Database & Entity Framework (EF Core)
+
+51. **Employee Directory** (`feature/ef-employee-directory`) - Manage staff records with SQL Server.
+52. **Student System** (`feature/ef-student-mgmt`) - Track grades, attendance, and enrollments.
+53. **Gym Membership** (`feature/ef-gym-tracker`) - Manage active subscriptions and facility access.
+54. **Clinic Appointments** (`feature/ef-clinic-system`) - Schedule patients with specific doctors.
+55. **Car Rental** (`feature/ef-car-rental`) - Track vehicle availability and rental agreements.
+56. **Point of Sale (POS)** (`feature/ef-pos-system`) - Process retail transactions and print receipts.
+57. **Warehouse Tracker** (`feature/ef-warehouse`) - Multi-location inventory tracking.
+58. **Airline Reservation** (`feature/ef-airline-reservation`) - Book flights and assign seating.
+59. **Hotel Booking** (`feature/ef-hotel-booking`) - Manage room availability and guest billing.
+60. **Payroll Management** (`feature/ef-payroll-system`) - Calculate employee wages, taxes, and bonuses.
+
+## Utility & System Tools
+
+61. **File Organizer** (`feature/file-organizer`) - Auto-sort files into folders based on extensions.
+62. **Image Resizer** (`feature/image-resizer`) - Bulk resize and compress photos.
+63. **PDF Utilities** (`feature/pdf-tools`) - Merge, split, or extract text from PDF documents.
+64. **Data Backup Tool** (`feature/backup-utility`) - Zip and copy important directories on a schedule.
+65. **Duplicate Finder** (`feature/duplicate-finder`) - Scan a drive for duplicate files to free up space.
+66. **System Monitor** (`feature/sys-monitor`) - Display real-time CPU and RAM usage.
+67. **Bulk Renamer** (`feature/bulk-renamer`) - Apply naming conventions to thousands of files at once.
+68. **Hash Generator** (`feature/hash-generator`) - Generate MD5, SHA-256, and SHA-512 hashes for files.
+69. **Text Encryptor** (`feature/text-encryptor`) - Encrypt and decrypt messages using AES.
+70. **FTP Client** (`feature/ftp-client`) - Upload and download files from a remote server.
+
+## Cloud & Automation
+
+71. **Azure Blob Manager** (`feature/az-blob-manager`) - Upload and delete files in Azure Storage.
+72. **Email Automator** (`feature/email-automator`) - Send automated newsletters using SMTP or SendGrid.
+73. **Background Worker** (`feature/worker-service`) - A .NET BackgroundService that processes background queues.
+74. **Azure Function Image Gen** (`feature/az-func-thumbnail`) - A serverless function that triggers when an image is uploaded.
+75. **Log Parser** (`feature/log-parser-cosmos`) - Read server logs and push structured data to CosmosDB.
+76. **Twitter/X Bot** (`feature/twitter-bot`) - Auto-post updates using a social API.
+77. **Discord Bot** (`feature/discord-bot`) - A server moderation bot using DSharpPlus.
+78. **Slack Notifier** (`feature/slack-notifier`) - Push alerts to a Slack channel via webhooks.
+79. **Webhook Receiver** (`feature/webhook-receiver`) - An endpoint designed specifically to ingest 3rd party webhooks.
+80. **Scheduled Task Runner** (`feature/task-scheduler`) - Run CRON jobs in C# using Quartz.NET.
+
+## Games & Graphics (Unity / MonoGame)
+
+81. **2D Platformer** (`feature/2d-platformer`) - A Mario-style jumping game.
+82. **Pong Clone** (`feature/pong-clone`) - Classic paddle and ball physics.
+83. **Snake Game** (`feature/snake-game`) - Grid-based movement and array management.
+84. **Flappy Bird Clone** (`feature/flappy-clone`) - Physics-based endless runner.
+85. **Space Invaders** (`feature/space-invaders`) - 2D shooting game with enemy waves.
+86. **Memory Card Game** (`feature/memory-game`) - A grid of cards where players match pairs.
+87. **3D Maze Runner** (`feature/3d-maze`) - First-person navigation through a generated labyrinth.
+88. **Idle Clicker** (`feature/idle-clicker`) - A game focusing on exponential math and upgrades.
+89. **Procedural Map Gen** (`feature/map-generator`) - Generate random terrain using Perlin noise.
+90. **Turn-based RPG** (`feature/turn-based-rpg`) - Classic menu-based combat system.
+
+## Advanced & Architecture
+
+91. **API Gateway** (`feature/api-gateway`) - Route traffic to multiple backend services using Ocelot.
+92. **CQRS Implementation** (`feature/cqrs-mediatr`) - Separate read and write operations using MediatR.
+93. **RabbitMQ Messaging** (`feature/rabbitmq-messaging`) - Asynchronous microservice communication.
+94. **Redis Cache Layer** (`feature/redis-cache`) - Implement distributed caching for high-speed data retrieval.
+95. **GraphQL API** (`feature/graphql-api`) - Serve flexible data queries using HotChocolate.
+96. **gRPC Chat Service** (`feature/grpc-chat`) - Ultra-fast communication using Protocol Buffers.
+97. **Elasticsearch Engine** (`feature/elastic-search`) - Implement complex full-text search capabilities.
+98. **Dockerized Web API** (`feature/docker-webapi`) - Containerize a C# application using Dockerfiles.
+99. **Keycloak Authentication** (`feature/keycloak-integration`) - Implement centralized identity management.
+100. **Microservice Demo** (`feature/microservices-demo`) - Build interacting `Orders` and `Inventory` services.
