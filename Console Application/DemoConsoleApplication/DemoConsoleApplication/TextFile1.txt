@@ -1,0 +1,155 @@
+﻿Creating a comprehensive list of 100 class examples in C# with proper naming conventions and file names can be quite extensive. Below is a categorized list that includes various types of classes, each with a brief description. You can create a `.cs` file for each class using the provided names.
+
+### List of 100 C# Class Examples
+
+#### 1. Basic Classes
+1. **Person.cs** - Represents a person with properties like Name and Age.
+2. **Car.cs** - Represents a car with properties like Make, Model, and Year.
+3. **Book.cs** - Represents a book with Title, Author, and ISBN.
+4. **Animal.cs** - Represents an animal with properties like Species and Age.
+5. **Employee.cs** - Represents an employee with properties like ID, Name, and Salary.
+
+#### 2. Data Structures
+6. **Node.cs** - Represents a node in a linked list.
+7. **Stack.cs** - Implements a basic stack data structure.
+8. **Queue.cs** - Implements a basic queue data structure.
+9. **BinaryTree.cs** - Represents a binary tree with methods for insertion and traversal.
+10. **Graph.cs** - Represents a graph using adjacency lists.
+
+#### 3. Utilities
+11. **Logger.cs** - Provides logging functionality for applications.
+12. **Configuration.cs** - Loads and manages application configuration settings.
+13. **MathUtils.cs** - Contains mathematical utility functions.
+14. **FileHelper.cs** - Provides methods for file operations.
+15. **StringHelper.cs** - Contains string manipulation utility methods.
+
+#### 4. Interfaces
+16. **IShape.cs** - Interface for shapes with methods for area and perimeter.
+17. **IRepository.cs** - Generic interface for data repositories.
+18. **ILogger.cs** - Interface for logging functionality.
+19. **IComparableShape.cs** - Interface for comparing shapes.
+20. **IDisposableResource.cs** - Interface for disposable resources.
+
+#### 5. Inheritance and Polymorphism
+21. **Vehicle.cs** - Base class for vehicles.
+22. **Truck.cs** - Inherits from Vehicle, adds properties like LoadCapacity.
+23. **Motorcycle.cs** - Inherits from Vehicle, adds properties like Type.
+24. **Bird.cs** - Base class for birds.
+25. **Eagle.cs** - Inherits from Bird, adds properties like WingSpan.
+
+#### 6. Collections
+26. **StudentList.cs** - Manages a list of students.
+27. **ShoppingCart.cs** - Represents a shopping cart with items.
+28. **ContactList.cs** - Manages a list of contacts.
+29. **OrderHistory.cs** - Stores a history of orders.
+30. **Playlist.cs** - Manages a playlist of songs.
+
+#### 7. Services
+31. **UserService.cs** - Manages user-related operations.
+32. **EmailService.cs** - Sends emails.
+33. **PaymentService.cs** - Handles payment processing.
+34. **NotificationService.cs** - Sends notifications to users.
+35. **ProductService.cs** - Manages product-related operations.
+
+#### 8. Models
+36. **User.cs** - Represents a user with properties like Username and Password.
+37. **Product.cs** - Represents a product with properties like Name, Price, and Stock.
+38. **Order.cs** - Represents an order with properties like OrderID and OrderDate.
+39. **Category.cs** - Represents a category for products.
+40. **Review.cs** - Represents a product review with properties like Rating and Comment.
+
+#### 9. Exceptions
+41. **CustomException.cs** - A custom exception class.
+42. **InvalidInputException.cs** - Exception for invalid input scenarios.
+43. **NotFoundException.cs** - Exception for not found resources.
+44. **UnauthorizedAccessException.cs** - Exception for unauthorized access.
+45. **DatabaseException.cs** - Exception for database-related errors.
+
+#### 10. Events and Delegates
+46. **EventPublisher.cs** - Class that publishes events.
+47. **EventSubscriber.cs** - Class that subscribes to events.
+48. **ActionListener.cs** - Implements event handling for actions.
+49. **NotificationEventArgs.cs** - Custom event arguments for notifications.
+50. **DataChangedEvent.cs** - Event for data change notifications.
+
+#### 11. Design Patterns
+51. **Singleton.cs** - Implements the Singleton design pattern.
+52. **Factory.cs** - Implements the Factory design pattern.
+53. **Observer.cs** - Implements the Observer design pattern.
+54. **Strategy.cs** - Implements the Strategy design pattern.
+55. **Decorator.cs** - Implements the Decorator design pattern.
+
+#### 12. Asynchronous Programming
+56. **AsyncFileReader.cs** - Reads files asynchronously.
+57. **AsyncDataFetcher.cs** - Fetches data from an API asynchronously.
+58. **TaskScheduler.cs** - Manages scheduled tasks asynchronously.
+59. **AsyncEventHandler.cs** - Handles events asynchronously.
+60. **AsyncDatabaseConnector.cs** - Connects to a database asynchronously.
+
+#### 13. Web Development
+61. **HttpRequest.cs** - Represents an HTTP request.
+62. **HttpResponse.cs** - Represents an HTTP response.
+63. **ApiController.cs** - Base class for API controllers.
+64. **Middleware.cs** - Represents middleware in a web application.
+65. **RouteConfig.cs** - Manages routing configurations.
+
+#### 14. Testing
+66. **UnitTestExample.cs** - Example unit test class.
+67. **MockService.cs** - Mock implementation for testing services.
+68. **TestDataGenerator.cs** - Generates test data for unit tests.
+69. **IntegrationTestExample.cs** - Example integration test class.
+70. **TestHelper.cs** - Contains utility methods for testing.
+
+#### 15. Security
+71. **EncryptionService.cs** - Provides encryption and decryption services.
+72. **TokenGenerator.cs** - Generates authentication tokens.
+73. **PasswordHasher.cs** - Hashes passwords securely.
+74. **PermissionManager.cs** - Manages user permissions.
+75. **SessionManager.cs** - Manages user sessions.
+
+#### 16. Graphics and UI
+76. **ShapeDrawer.cs** - Draws shapes on a canvas.
+77. **ColorPalette.cs** - Represents a color palette.
+78. **Button.cs** - Represents a button UI component.
+79. **TextBox.cs** - Represents a text input UI component.
+80. **ImageLoader.cs** - Loads images for UI components.
+
+#### 17. File Handling
+81. **JsonFileHandler.cs** - Handles JSON file operations.
+82. **XmlFileHandler.cs** - Handles XML file operations.
+83. **CsvFileHandler.cs** - Handles CSV file operations.
+84. **LogFileWriter.cs** - Writes logs to a file.
+85. **BackupManager.cs** - Manages file backups.
+
+#### 18. Networking
+86. **TcpClient.cs** - Represents a TCP client.
+87. **TcpServer.cs** - Represents a TCP server.
+88. **WebSocketClient.cs** - Represents a WebSocket client.
+89. **HttpClient.cs** - Represents an HTTP client.
+90. **SocketManager.cs** - Manages socket connections.
+
+#### 19. Miscellaneous
+91. **Timer.cs** - Implements a simple timer.
+92. **RandomNumberGenerator.cs** - Generates random numbers.
+93. **DateTimeUtils.cs** - Contains utility methods for date and time.
+94. **CurrencyConverter.cs** - Converts currencies.
+95. **ZipFileHandler.cs** - Handles ZIP file operations.
+
+#### 20. Game Development
+96. **GameObject.cs** - Base class for game objects.
+97. **Player.cs** - Represents a player in a game.
+98. **Enemy.cs** - Represents an enemy in a game.
+99. **GameManager.cs** - Manages game state and logic.
+100. **Level.cs** - Represents a game level.
+
+### Creating Files
+
+You can create a `.cs` file for each class mentioned above by following these steps:
+
+1. Open your C# IDE (like Visual Studio or Visual Studio Code).
+2. Create a new project or open an existing one.
+3. Right-click on the project in the Solution Explorer.
+4. Choose "Add" > "Class..." and name it according to the list (e.g., `Person.cs`).
+5. Implement the class based on the description provided.
+
+Feel free to modify and expand upon these classes as you learn more about C#!
