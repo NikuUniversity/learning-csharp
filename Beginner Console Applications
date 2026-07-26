@@ -1,0 +1,62 @@
+## Beginner Console Applications
+
+This repository contains a collection of beginner-friendly console applications. Each application demonstrates fundamental programming concepts and is designed to help new developers practice and enhance their coding skills.
+
+## Applications
+
+### 1. Calculator
+**Feature:** `feature/console-calculator`  
+A basic math calculator that performs arithmetic operations.
+
+### 2. Number Guessing Game
+**Feature:** `feature/number-guesser`  
+A game that generates a random number and validates user input.
+
+### 3. To-Do List
+**Feature:** `feature/console-todo`  
+A memory-based list manager for daily tasks, allowing users to add, remove, and view tasks.
+
+### 4. Rock, Paper, Scissors
+**Feature:** `feature/rps-game`  
+A simple game where the user plays against the computer in a classic rock-paper-scissors format.
+
+### 5. Currency Converter
+**Feature:** `feature/currency-converter`  
+A console application that converts between static currency exchange rates.
+
+### 6. Password Generator
+**Feature:** `feature/password-gen`  
+Generates secure, randomized strings for use as passwords.
+
+### 7. BMI Calculator
+**Feature:** `feature/bmi-calculator`  
+Calculates Body Mass Index (BMI) based on user-provided height and weight.
+
+## 8. Alarm Clock
+**Feature:** `feature/alarm-clock`  
+A console application that plays a sound at a specified time, serving as an alarm clock.
+
+### 9. Tic-Tac-Toe
+**Feature:** `feature/tic-tac-toe`  
+A two-player grid game implemented in the console.
+
+### 10. Word Counter
+**Feature:** `feature/word-counter`  
+Counts the number of words, characters, and sentences in a given string.
+
+## Getting Started
+
+To get started with any of the applications, clone the repository and navigate to the respective feature directory. Follow the instructions in each application's README for setup and usage.
+
+```bash
+git clone <repository-url>
+cd <feature-directory>
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
